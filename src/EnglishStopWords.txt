@@ -1,3 +1,4 @@
+
 a
 about
 above
@@ -66,6 +67,7 @@ de
 describe
 detail
 do
+don
 done
 down
 due
@@ -79,6 +81,7 @@ else
 elsewhere
 empty
 enough
+er
 etc
 even
 ever
@@ -145,7 +148,9 @@ latter
 latterly
 least
 less
+ll
 ltd
+m
 made
 many
 may
@@ -179,6 +184,7 @@ not
 nothing
 now
 nowhere
+nt
 of
 off
 often
@@ -204,6 +210,7 @@ please
 put
 rather
 re
+s
 same
 see
 seem
@@ -231,6 +238,7 @@ somewhere
 still
 such
 system
+t
 take
 ten
 than
@@ -307,6 +315,7 @@ will
 with
 within
 without
+won
 would
 yet
 you
